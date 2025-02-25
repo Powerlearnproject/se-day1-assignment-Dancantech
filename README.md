@@ -10,7 +10,7 @@ Software engineering is a discipline within computer science that focuses on the
 Key Aspects of Software Engineering:
 Requirements Analysis: Gathering and analyzing the needs of users and stakeholders to define what the software should do.
 
-Design: Creating a blueprint for the software architecture, including data structures, algorithms, and interfaces, to ensure the system's robustness and scalability.
+Design: Creating a blueprint for the software architecture, including data structures, algorithms and interfaces, to ensure the system's robustness and scalability.
 
 Development: Writing the actual code based on the design specifications using programming languages and tools.
 
