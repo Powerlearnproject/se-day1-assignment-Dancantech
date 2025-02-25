@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15619668&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -9,7 +10,7 @@ Software engineering is a discipline within computer science that focuses on the
 Key Aspects of Software Engineering:
 Requirements Analysis: Gathering and analyzing the needs of users and stakeholders to define what the software should do.
 
-Design: Creating a blueprint for the software architecture, including data structures, algorithms, and interfaces, to ensure the system's robustness and scalability.
+Design: Creating a blueprint for the software architecture, including data structures, algorithms and interfaces, to ensure the system's robustness and scalability.
 
 Development: Writing the actual code based on the design specifications using programming languages and tools.
 
